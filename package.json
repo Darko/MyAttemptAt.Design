@@ -1,0 +1,14 @@
+{
+  "name": "myattemtpat.design",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Darko Efremov",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
